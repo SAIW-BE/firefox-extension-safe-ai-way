@@ -3,11 +3,11 @@
     "info@safeaiway.com": {
       "updates": [
         {
-          "version": "2.1.3",
-          "update_link": "https://saiw-be.github.io/firefox-extension-safe-ai-way/safe-ai-way-firefox-v2.1.3.xpi",
+          "version": "2.2.0",
+          "update_link": "https://saiw-be.github.io/firefox-extension-safe-ai-way/safe-ai-way-firefox-v2.2.0.xpi",
           "applications": {
             "gecko": {
-              "strict_min_version": "109.0"
+              "strict_min_version": "115.0"
             }
           }
         }
